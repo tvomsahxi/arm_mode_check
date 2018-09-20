@@ -1,0 +1,2 @@
+# arm_mode_check
+GPIO１４から１8を用いて５つのLEDを点灯させてcpsrの下位5bitを表現する(自分用
